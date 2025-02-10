@@ -31,7 +31,7 @@ This project extracts movie and actor data from IMDb’s Top 250 Movies list usi
 - `Actors_IMDb_Scraper.ipynb` - Extracts actor details from the `movie_details_8FEB.csv` and saves them as `top_actors.csv`
 - `IMDb_TopMovies_EDA.ipynb` - Loads the `movie_details_8FEB.csv` to explore trends, perform EDA, and create visualizations that answer several questions our team had about the data. 
 
-4. Datasets
+5. Datasets
 
 - All datasets are stored in the `notebooks/datasets` directory.
 - `movie_details_8FEB.csv` – This dataset is used in the Data Analysis notebook for exploring trends and visualizing insights.
