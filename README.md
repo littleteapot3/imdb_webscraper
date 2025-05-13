@@ -1,5 +1,4 @@
 # imdb_webscraper
-Team Monty's Data Circus explores the Top 250 Movies on IMDb
 
 ## Overview
 This project extracts movie and actor data from IMDb’s Top 250 Movies list using Selenium and BeautifulSoup and includes an exploratory data analysis (EDA) notebook for visualizing trends. It consists of three main components:
